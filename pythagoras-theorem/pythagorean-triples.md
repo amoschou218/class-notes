@@ -21,16 +21,21 @@ $$ c^2 = a^2 + b^2 $$
 
 Equivalently, geometrically, a *Pythagorean triple* is three whole numbers that could be the side lengths of a right-angled triangle.
 
+Note: This means that a question could be phrased as *Is this a Pythagorean triple?* or *Is this a right angled triangle?*. They are equivalent formulations of the same question.
+
 ## Example
 
-> Is $\(3, 4, 5\)$ a Pythagorean triple?
+> Is $\(3, 4, 5\)$ a Pythagorean triple?\
+> *or*
+> Is a triangle with side lengths 3, 4, 5 a right-angled triangle?
 >
 > Let’s check using algebra.\
 > The biggest is $c = 5$. The others are $a = 3$ and $b = 4$ (It does not matter which is $a$ and which is $b$).\
 > Substitute into the equation $c^2 = a^2 + b^2$.\
 > The left side is: $c^2 = 5^2 = 25$.\
 > The right side is: $a^2 + b^2 = 3^2 + 4^2 = 25$.\
-> The equation is satisfied. Therefore, $\(3, 4, 5\)$ is a Pythagorean triple.
+> The equation is satisfied. Therefore, $\(3, 4, 5\)$ is a Pythagorean triple.\
+> (Or a triangle with side lengths 3, 4, 5 is a right-angled triangle).
 >
 > Check using geometry.\
 > Draw a rectangle 3 cm long and 4 cm wide. Draw its diagonal and measure its length.\
@@ -39,3 +44,22 @@ Equivalently, geometrically, a *Pythagorean triple* is three whole numbers that 
 
 ## Counter example
 
+> Is $\(4, 7, 8\)$ a Pythagorean triple?\
+> *or:*
+> Is a triangle with side lengths 4, 7, 8 a right-angled triangle?
+>
+> Let’s check using algebra.\
+> The biggest is $c = 8$. The others are $a = 4$ and $b = 7$ (Again, it does not matter which is $a$ and which is $b$).\
+> Substitute into the equation $c^2 = a^2 + b^2$.\
+> The left side is: $c^2 = 8^2 = 64$.\
+> The right side is: $a^2 + b^2 = 4^2 + 7^2 = 65$.\
+> The equation is not satisfied. Therefore, $\(3, 4, 5\)$ is not a Pythagorean triple.\
+> (Or a triangle with side lengths 4, 7, 8 is not a right-angled triangle).
+
+## Similar triples
+
+Pythagorean triples can be scaled up (or down) by a scale factor to generate a new Pythagorean triple. All three values must be scaled by the same amount.
+
+> Is $\(9, 12, 15\)$ a Pythagorean triple?
+> 
+> Yes. Because we already know that $\(3, 4, 5\) is a Pythagorean triple, and multiplying these values by 3 produces $\(9, 12, 15\)$.
