@@ -1,10 +1,17 @@
-# Finding the hypotenuse
+# Pythagoras theorem
+
+1. [Pythagorean triples](./pythagoras-theorem/pythagorean-triples.md)
+2. [Right-angled triangles](./pythagoras-theorem/right-angled-triangles.md)
+3. :yellow_circle: [Finding the hypotenuse](./pythagoras-theorem/finding-the-hypotenuse.md)
+4. [Finding a shorter side](./pythagoras-theorem/finding-a-shorter-side.md)
+
+## Finding the hypotenuse
 
 Remember the equation: $c^2 = a^2 + b^2$ which applies to right-angled triangles (the hypotenuse is $c$).
 
 Do not approximate your answer as a decimal unless the question asks for it.
 
-## Example 1
+### Example 1
 
 Find the hypotenuse of a right-angled triangle whose shorter sides are 5 and 12.
 
@@ -24,7 +31,7 @@ c^2 &= a^2 + b^2\\
 \end{align*}
 ```
 
-## Example 2
+### Example 2
 
 Find the hypotenuse of a right-angled triangle whose shorter sides are 4 and 6. Keep your answer in exact form, simplified.
 
@@ -44,7 +51,7 @@ c^2 &= a^2 + b^2\\
 \end{align*}
 ```
 
-## Example 3
+### Example 3
 
 Find the hypotenuse of a right-angled triangle whose shorter sides are 4 and 6. Round your answer to two decimal places.
 
