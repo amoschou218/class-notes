@@ -1,4 +1,11 @@
-# Right-angled triangles
+# Pythagoras theorem
+
+1. [Pythagorean triples](./pythagoras-theorem/pythagorean-triples.md)
+2. :yellow_circle: [Right-angled triangles](./pythagoras-theorem/right-angled-triangles.md)
+3. [Finding the hypotenuse](./pythagoras-theorem/finding-the-hypotenuse.md)
+4. [Finding a shorter side](./pythagoras-theorem/finding-a-shorter-side.md)
+
+### Right-angled triangles
 
 A *right angle* is an angle with value $90\degree$.
 
@@ -12,7 +19,7 @@ If we label the sides or a right-angled triangle $a$, $b$ and $c$ (The longest i
 
 ![](https://jsx-images.mathspace.co/ac-9-2020-995-chapter-3/3.01-2.svg)
 
-## Notes
+### Notes
 
 If the biggest angle in a tirnagle is not a right angle, then it is not a right angled triangle.
 
