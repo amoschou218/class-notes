@@ -16,7 +16,7 @@ Can you find any examples where the answer is ‘yes’? If you can, then you ha
 
 ## Definition
 
-A *Pythagorean triple* is three whole numbers $\(a, b, c\)$ (the biggest one is $c$) that are related using the equation:
+A *Pythagorean triple* is three whole numbers $\(a, b, c\)$ (the biggest one is $c$) that are related using the equation:\
 $$ c^2 = a^2 + b^2 $$
 
 Equivalently, geometrically, a *Pythagorean triple* is three whole numbers that could be the side lengths of a right-angled triangle.
@@ -62,4 +62,4 @@ Pythagorean triples can be scaled up (or down) by a scale factor to generate a n
 
 > Is $\(9, 12, 15\)$ a Pythagorean triple?
 > 
-> Yes. Because we already know that $\(3, 4, 5\) is a Pythagorean triple, and multiplying these values by 3 produces $\(9, 12, 15\)$.
+> Yes. Because we already know that $\(3, 4, 5\)$ is a Pythagorean triple, and multiplying these values by 3 produces $\(9, 12, 15\)$.
