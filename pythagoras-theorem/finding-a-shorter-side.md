@@ -1,10 +1,17 @@
-# Finding a shorter side of a right-angled triangle
+# Pythagoras theorem
+
+1. [Pythagorean triples](./pythagoras-theorem/pythagorean-triples.md)
+2. [Right-angled triangles](./pythagoras-theorem/right-angled-triangles.md)
+3. [Finding the hypotenuse](./pythagoras-theorem/finding-the-hypotenuse.md)
+4. :yellow_circle: [Finding a shorter side](./pythagoras-theorem/finding-a-shorter-side.md)
+
+## Finding a shorter side of a right-angled triangle
 
 Remember the equation: $c^2 = a^2 + b^2$ which applies to right-angled triangles (the hypotenuse is $c$).
 
 Do not approximate your answer as a decimal unless the question asks for it.
 
-## Example 1
+### Example 1
 
 Find the remaining side of a right-angled triangle whose hypotenuse is 13 and another side is 12.
 
@@ -26,7 +33,7 @@ c^2 &= a^2 + b^2\\
 \end{align*}
 ```
 
-## Example 2
+### Example 2
 
 Find the remaining side of a right-angled triangle whose hypotenuse is 2.6 and another side is 2.4.
 
