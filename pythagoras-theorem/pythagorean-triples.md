@@ -1,6 +1,13 @@
-# Pythagorean triples
+# Pythagoras theorem
 
-## Investigation
+1. :yellow_circle: [Pythagorean triples](./pythagoras-theorem/pythagorean-triples.md)
+2. [Right-angled triangles](./pythagoras-theorem/right-angled-triangles.md)
+3. [Finding the hypotenuse](./pythagoras-theorem/finding-the-hypotenuse.md)
+4. [Finding a shorter side](./pythagoras-theorem/finding-a-shorter-side.md)
+
+## Pythagorean triples
+
+### Investigation
 
 > 1. Choose two whole numbers.
 > 2. On graph paper, draw a rectangle with length and width equal to those two numbers.
@@ -14,7 +21,7 @@ Most of the time, the answer to the question in step 5 is ‘no’.
 
 Can you find any examples where the answer is ‘yes’? If you can, then you have found a *Pythagorean triple*.
 
-## Definition
+### Definition
 
 A *Pythagorean triple* is three whole numbers $\(a, b, c\)$ (the biggest one is $c$) that are related using the equation:
 $$ c^2 = a^2 + b^2 $$
@@ -23,7 +30,7 @@ Equivalently, geometrically, a *Pythagorean triple* is three whole numbers that 
 
 Note: This means that a question could be phrased as *Is this a Pythagorean triple?* or *Is this a right angled triangle?*. They are equivalent formulations of the same question.
 
-## Example
+### Example
 
 > Is $\(3, 4, 5\)$ a Pythagorean triple?\
 > *or*
@@ -42,7 +49,7 @@ Note: This means that a question could be phrased as *Is this a Pythagorean trip
 > If you precisely draw the diagram, you will find the diagonal is 5 cm long. (Which is expected because the algebra checks out above).\
 > Note: Measuring this way is not conclusive because there might be some imperceptable differences (What if the diagonal were actually 5.01 cm and you didn’t notice?)
 
-## Counter example
+### Counter example
 
 > Is $\(4, 7, 8\)$ a Pythagorean triple?\
 > *or:*
@@ -56,7 +63,7 @@ Note: This means that a question could be phrased as *Is this a Pythagorean trip
 > The equation is not satisfied. Therefore, $\(3, 4, 5\)$ is not a Pythagorean triple.\
 > (Or a triangle with side lengths 4, 7, 8 is not a right-angled triangle).
 
-## Similar triples
+### Similar triples
 
 Pythagorean triples can be scaled up (or down) by a scale factor to generate a new Pythagorean triple. All three values must be scaled by the same amount.
 
