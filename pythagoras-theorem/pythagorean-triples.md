@@ -16,7 +16,7 @@ Can you find any examples where the answer is ‘yes’? If you can, then you ha
 
 ## Definition
 
-A *Pythagorean triple* is three whole numbers $\(a, b, c\)$ (the biggest one is $c$) that are related using the equation:\
+A *Pythagorean triple* is three whole numbers $\(a, b, c\)$ (the biggest one is $c$) that are related using the equation:
 $$ c^2 = a^2 + b^2 $$
 
 Equivalently, geometrically, a *Pythagorean triple* is three whole numbers that could be the side lengths of a right-angled triangle.
