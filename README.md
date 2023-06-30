@@ -1,6 +1,8 @@
 # Contents
 
-## Pythagoras theorem
+## Pythagoras’ theorem
+
+[Index](./pythagoras-theorem/index.md)
 
 1. [Pythagorean triples](./pythagoras-theorem/pythagorean-triples.md)
 2. [Right-angled triangles](./pythagoras-theorem/right-angled-triangles.md)
