@@ -66,4 +66,4 @@ flowchart TB;
     line3 --> id3
 ```
 
-Can you find two examples of Haiku poetry (Or even write one yourself)? Draw the flow chart. Write the Python code.
+Can you find two examples of Haiku poetry (Or even write one yourself)? Draw the flow chart. Write the Python code. You can look for some examples from this site or search the internet yourself: https://www.weareteachers.com/haiku-poems-for-kids/
